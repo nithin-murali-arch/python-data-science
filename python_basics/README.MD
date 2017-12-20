@@ -50,3 +50,26 @@ else if -> elif
   
 
 is ==
+
+## Numpy
+import numpy as np
+
+np.random(number, standardDeviation, datapoints)
+
+np.mean(array)
+
+np.median(array)
+
+np.append(array, anotherArray)
+
+np.random(10, high=90, size=500)
+## pyplot
+
+import matplotlib.pyplot as plt
+
+plt.hist(array, )
+
+## scipy
+
+from scipy import stats
+stats.mode(array)
