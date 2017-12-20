@@ -23,3 +23,30 @@ tuples = [x, y]
 
 ## Dictionary
 
+obj = {}
+obj["name"] = "Nithin"
+
+## Functions
+
+def someFunction(param):
+  return param * param
+
+## Callbacks
+def someFunction(callback, a):
+  return callback(a)
+
+## Lambdas(Anonymous Functions)
+someFunction(lambda x: x * x, 3)
+
+## Boolean
+True False
+
+else if -> elif
+
+## For loop
+  for x in range(10)
+  
+  prints 0 - 10
+  
+
+is ==
