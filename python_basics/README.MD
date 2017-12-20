@@ -63,6 +63,13 @@ np.median(array)
 np.append(array, anotherArray)
 
 np.random(10, high=90, size=500)
+
+numpy lists have extra functions:
+
+.std() -> std deviation
+
+.var() -> variance
+
 ## pyplot
 
 import matplotlib.pyplot as plt
